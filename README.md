@@ -63,13 +63,6 @@
 
 ---
 
-# ✨ Animated Visitor Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranavop45&label=PROFILE+VIEWS&color=24D2FE&style=for-the-badge" />
-</p>
-
----
-
 # 🌀 WORKING Animation (Replaces GIF)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">

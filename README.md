@@ -56,14 +56,14 @@
 
 ---
 
-# 🎛️ **✔ What I Build (Animated Section)**  
+# 🎛️ **✔ What I Build**  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=🔥+AI+Agents+%26+AI+Portfolio+Assistants;🔥+Full+Website+%2B+Backend+Systems;🔥+Premium+Front-End+UI+Designs;🔥+College+Projects+%26+Paid+Projects;🔥+APIs+%2F+Dashboards+%2F+Automation+Tools;🔥+Private+Production+Level+Projects;🔥+High+Security+%26+Encrypted+Backends" />
 </p>
 
 ---
 
-# 🌀 WORKING Animation (Replaces GIF)
+# 🌀 WORKING Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>

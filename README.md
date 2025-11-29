@@ -67,10 +67,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
-_✔ This animation ALWAYS works on GitHub  
-✔ No blocking  
-✔ Premium + Futuristic vibe_
-
 ---
 
 # 🌐 Connect With Me  

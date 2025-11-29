@@ -29,7 +29,7 @@
 
 ---
 
-# 🔥 Featured Projects
+# 🔥 Projects
 ### ⭐ **AI Powered Portfolio**  
 - Personal AI Assistant + Premium UI  
 🔗 https://github.com/pranavop45/portfolio-with-ai-assistance  

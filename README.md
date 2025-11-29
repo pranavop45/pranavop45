@@ -44,7 +44,7 @@
 
 ---
 
-# 🌀 **Premium GitHub Stats (Neon Theme)**  
+# 🌀 **Premium GitHub Stats**  
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=pranavop45&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavop45&theme=tokyonight" />

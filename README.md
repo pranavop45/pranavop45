@@ -84,6 +84,34 @@ Building real-world products from idea to deployment across web, AI, desktop and
 
 <br/>
 
+<br/>
+
+<h2 align="center">💜 Let's Connect</h2>
+
 <p align="center">
-  <i>Always learning. Always building. Always shipping. ⚡</i>
+  <i>Have an idea, project, or just want to connect?</i>
+</p>
+
+<p align="center">
+  <a href="mailto:iampranavkadam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+  <a href="https://github.com/pranavop45">
+    <img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <a href="https://www.instagram.com/mr.pranav_0x?igsh=aG95MHFocTduaG50">
+    <img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+  <a href="https://t.me/OMEGAxOWNER">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <sub>Built with code, curiosity &amp; a little obsession. ⚡</sub>
 </p>

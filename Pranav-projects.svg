@@ -9,7 +9,6 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 .sh2{animation:shineX2 5s ease-in-out 2s infinite}
 @keyframes fadeInHdr{0%{opacity:0;transform:translateY(6px)}100%{opacity:1;transform:translateY(0)}}
 .hdr{opacity:0;animation:fadeInHdr .5s ease forwards;animation-delay:0.05s;transform-box:fill-box;transform-origin:left}
-a{text-decoration:none}
 ]]></style>
 <linearGradient id="shg2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="50%" stop-color="#fff" stop-opacity=".07"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient>
 <linearGradient id="hdrGrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#ff7eb6"/><stop offset="60%" stop-color="#c084fc"/><stop offset="100%" stop-color="#e879f9"/></linearGradient>
@@ -26,113 +25,89 @@ a{text-decoration:none}
 
   <!-- Row 1: 4 Cards -->
   <!-- 1. Portfolio -->
-  <a href="https://pranavkadam.in" target="_blank" rel="noopener" aria-label="View Project Portfolio">
-    <g class="cell" style="animation-delay:0.20s">
-      <rect x="14" y="64" width="254" height="160" rx="14" fill="#170e28" stroke="#ff7eb6" stroke-opacity=".55" stroke-width="1.3"/>
-      <text x="30" y="98" font-size="18">🌐</text>
-      <text x="252" y="96" text-anchor="end" font-size="9" font-weight="bold" fill="#ff7eb6" letter-spacing="1">PERSONAL PORTFOLIO</text>
-      <text x="30" y="124" font-size="15" font-weight="bold" fill="#e6edf3">Portfolio</text>
-      <text x="30" y="143" font-size="11" fill="#9aa4b2">Personal portfolio showcasing</text>
-      <text x="30" y="158" font-size="11" fill="#9aa4b2">projects, UI design &amp; dev work.</text>
-      <line x1="30" y1="176" x2="252" y2="176" stroke="#241740" stroke-width="1"/>
-      <rect x="30" y="176" width="0" height="1.5" rx="0.75" fill="#ff7eb6">
-        <animate attributeName="width" from="0" to="222" dur="1s" begin="0.40s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
-      </rect>
-      <rect x="30" y="187" width="222" height="25" rx="6" fill="#ff7eb6" fill-opacity=".12" stroke="#ff7eb6" stroke-opacity=".3" stroke-width="1"/>
-      <text x="141" y="203" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#ff7eb6">VIEW PROJECT ↗</text>
-    </g>
-  </a>
+  <g class="cell" style="animation-delay:0.20s">
+    <rect x="14" y="64" width="254" height="160" rx="14" fill="#170e28" stroke="#ff7eb6" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="30" y="98" font-size="18">🌐</text>
+    <text x="252" y="96" text-anchor="end" font-size="9" font-weight="bold" fill="#ff7eb6" letter-spacing="1">PERSONAL PORTFOLIO</text>
+    <text x="30" y="124" font-size="15" font-weight="bold" fill="#e6edf3">Portfolio</text>
+    <text x="30" y="145" font-size="11" fill="#9aa4b2">Personal portfolio showcasing</text>
+    <text x="30" y="162" font-size="11" fill="#9aa4b2">projects, UI design &amp; dev work.</text>
+    <line x1="30" y1="190" x2="252" y2="190" stroke="#241740" stroke-width="1"/>
+    <rect x="30" y="190" width="0" height="1.5" rx="0.75" fill="#ff7eb6">
+      <animate attributeName="width" from="0" to="222" dur="1s" begin="0.40s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
 
   <!-- 2. CleanMaster Pro -->
-  <a href="https://cleanmasterpro.in" target="_blank" rel="noopener" aria-label="View Project CleanMaster Pro">
-    <g class="cell" style="animation-delay:0.30s">
-      <rect x="284" y="64" width="254" height="160" rx="14" fill="#170e28" stroke="#4ade80" stroke-opacity=".55" stroke-width="1.3"/>
-      <text x="300" y="98" font-size="18">⚡</text>
-      <text x="522" y="96" text-anchor="end" font-size="9" font-weight="bold" fill="#4ade80" letter-spacing="1">DESKTOP TOOL</text>
-      <text x="300" y="124" font-size="15" font-weight="bold" fill="#e6edf3">CleanMaster Pro</text>
-      <text x="300" y="143" font-size="11" fill="#9aa4b2">High-performance desktop tool to</text>
-      <text x="300" y="158" font-size="11" fill="#9aa4b2">boost &amp; clean system resources.</text>
-      <line x1="300" y1="176" x2="522" y2="176" stroke="#241740" stroke-width="1"/>
-      <rect x="300" y="176" width="0" height="1.5" rx="0.75" fill="#4ade80">
-        <animate attributeName="width" from="0" to="222" dur="1s" begin="0.50s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
-      </rect>
-      <rect x="300" y="187" width="222" height="25" rx="6" fill="#4ade80" fill-opacity=".12" stroke="#4ade80" stroke-opacity=".3" stroke-width="1"/>
-      <text x="411" y="203" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#4ade80">VIEW PROJECT ↗</text>
-    </g>
-  </a>
+  <g class="cell" style="animation-delay:0.30s">
+    <rect x="284" y="64" width="254" height="160" rx="14" fill="#170e28" stroke="#4ade80" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="300" y="98" font-size="18">⚡</text>
+    <text x="522" y="96" text-anchor="end" font-size="9" font-weight="bold" fill="#4ade80" letter-spacing="1">DESKTOP TOOL</text>
+    <text x="300" y="124" font-size="15" font-weight="bold" fill="#e6edf3">CleanMaster Pro</text>
+    <text x="300" y="145" font-size="11" fill="#9aa4b2">High-performance desktop tool to</text>
+    <text x="300" y="162" font-size="11" fill="#9aa4b2">boost &amp; clean system resources.</text>
+    <line x1="300" y1="190" x2="522" y2="190" stroke="#241740" stroke-width="1"/>
+    <rect x="300" y="190" width="0" height="1.5" rx="0.75" fill="#4ade80">
+      <animate attributeName="width" from="0" to="222" dur="1s" begin="0.50s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
 
   <!-- 3. CodeVault -->
-  <a href="https://codevaultofficial.in/" target="_blank" rel="noopener" aria-label="View Project CodeVault">
-    <g class="cell" style="animation-delay:0.40s">
-      <rect x="554" y="64" width="254" height="160" rx="14" fill="#170e28" stroke="#fde047" stroke-opacity=".55" stroke-width="1.3"/>
-      <text x="570" y="98" font-size="18">📦</text>
-      <text x="792" y="96" text-anchor="end" font-size="9" font-weight="bold" fill="#fde047" letter-spacing="1">DEVELOPER MARKETPLACE</text>
-      <text x="570" y="124" font-size="15" font-weight="bold" fill="#e6edf3">CodeVault</text>
-      <text x="570" y="143" font-size="11" fill="#9aa4b2">Monetization platform for code,</text>
-      <text x="570" y="158" font-size="11" fill="#9aa4b2">UI kits &amp; full-stack templates.</text>
-      <line x1="570" y1="176" x2="792" y2="176" stroke="#241740" stroke-width="1"/>
-      <rect x="570" y="176" width="0" height="1.5" rx="0.75" fill="#fde047">
-        <animate attributeName="width" from="0" to="222" dur="1s" begin="0.60s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
-      </rect>
-      <rect x="570" y="187" width="222" height="25" rx="6" fill="#fde047" fill-opacity=".12" stroke="#fde047" stroke-opacity=".3" stroke-width="1"/>
-      <text x="681" y="203" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#fde047">VIEW PROJECT ↗</text>
-    </g>
-  </a>
+  <g class="cell" style="animation-delay:0.40s">
+    <rect x="554" y="64" width="254" height="160" rx="14" fill="#170e28" stroke="#fde047" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="570" y="98" font-size="18">📦</text>
+    <text x="792" y="96" text-anchor="end" font-size="9" font-weight="bold" fill="#fde047" letter-spacing="1">DEVELOPER MARKETPLACE</text>
+    <text x="570" y="124" font-size="15" font-weight="bold" fill="#e6edf3">CodeVault</text>
+    <text x="570" y="145" font-size="11" fill="#9aa4b2">Monetization platform for code,</text>
+    <text x="570" y="162" font-size="11" fill="#9aa4b2">UI kits &amp; full-stack templates.</text>
+    <line x1="570" y1="190" x2="792" y2="190" stroke="#241740" stroke-width="1"/>
+    <rect x="570" y="190" width="0" height="1.5" rx="0.75" fill="#fde047">
+      <animate attributeName="width" from="0" to="222" dur="1s" begin="0.60s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
 
   <!-- 4. DeepScan AI -->
-  <a href="https://deepscan-ai.vercel.app/" target="_blank" rel="noopener" aria-label="View Project DeepScan AI">
-    <g class="cell" style="animation-delay:0.50s">
-      <rect x="824" y="64" width="254" height="160" rx="14" fill="#170e28" stroke="#7dd3fc" stroke-opacity=".55" stroke-width="1.3"/>
-      <text x="840" y="98" font-size="18">🔍</text>
-      <text x="1062" y="96" text-anchor="end" font-size="9" font-weight="bold" fill="#7dd3fc" letter-spacing="1">AI PLATFORM</text>
-      <text x="840" y="124" font-size="15" font-weight="bold" fill="#e6edf3">DeepScan AI</text>
-      <text x="840" y="143" font-size="11" fill="#9aa4b2">AI-powered deepfake detector for</text>
-      <text x="840" y="158" font-size="11" fill="#9aa4b2">images, videos, audio &amp; text.</text>
-      <line x1="840" y1="176" x2="1062" y2="176" stroke="#241740" stroke-width="1"/>
-      <rect x="840" y="176" width="0" height="1.5" rx="0.75" fill="#7dd3fc">
-        <animate attributeName="width" from="0" to="222" dur="1s" begin="0.70s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
-      </rect>
-      <rect x="840" y="187" width="222" height="25" rx="6" fill="#7dd3fc" fill-opacity=".12" stroke="#7dd3fc" stroke-opacity=".3" stroke-width="1"/>
-      <text x="951" y="203" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#7dd3fc">VIEW PROJECT ↗</text>
-    </g>
-  </a>
+  <g class="cell" style="animation-delay:0.50s">
+    <rect x="824" y="64" width="254" height="160" rx="14" fill="#170e28" stroke="#7dd3fc" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="840" y="98" font-size="18">🔍</text>
+    <text x="1062" y="96" text-anchor="end" font-size="9" font-weight="bold" fill="#7dd3fc" letter-spacing="1">AI PLATFORM</text>
+    <text x="840" y="124" font-size="15" font-weight="bold" fill="#e6edf3">DeepScan AI</text>
+    <text x="840" y="145" font-size="11" fill="#9aa4b2">AI-powered deepfake detector for</text>
+    <text x="840" y="162" font-size="11" fill="#9aa4b2">images, videos, audio &amp; text.</text>
+    <line x1="840" y1="190" x2="1062" y2="190" stroke="#241740" stroke-width="1"/>
+    <rect x="840" y="190" width="0" height="1.5" rx="0.75" fill="#7dd3fc">
+      <animate attributeName="width" from="0" to="222" dur="1s" begin="0.70s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
 
   <!-- Row 2: 3 Centered Cards -->
   <!-- 5. IncomeOS -->
-  <a href="https://income-os-weld.vercel.app/" target="_blank" rel="noopener" aria-label="View Project IncomeOS">
-    <g class="cell" style="animation-delay:0.60s">
-      <rect x="149" y="244" width="254" height="160" rx="14" fill="#170e28" stroke="#c084fc" stroke-opacity=".55" stroke-width="1.3"/>
-      <text x="165" y="278" font-size="18">💡</text>
-      <text x="387" y="276" text-anchor="end" font-size="9" font-weight="bold" fill="#c084fc" letter-spacing="1">AI / SAAS</text>
-      <text x="165" y="304" font-size="15" font-weight="bold" fill="#e6edf3">IncomeOS</text>
-      <text x="165" y="323" font-size="11" fill="#9aa4b2">AI financial dashboard to track</text>
-      <text x="165" y="338" font-size="11" fill="#9aa4b2">income &amp; smart earning goals.</text>
-      <line x1="165" y1="356" x2="387" y2="356" stroke="#241740" stroke-width="1"/>
-      <rect x="165" y="356" width="0" height="1.5" rx="0.75" fill="#c084fc">
-        <animate attributeName="width" from="0" to="222" dur="1s" begin="0.80s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
-      </rect>
-      <rect x="165" y="367" width="222" height="25" rx="6" fill="#c084fc" fill-opacity=".12" stroke="#c084fc" stroke-opacity=".3" stroke-width="1"/>
-      <text x="276" y="383" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#c084fc">VIEW PROJECT ↗</text>
-    </g>
-  </a>
+  <g class="cell" style="animation-delay:0.60s">
+    <rect x="149" y="244" width="254" height="160" rx="14" fill="#170e28" stroke="#c084fc" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="165" y="278" font-size="18">💡</text>
+    <text x="387" y="276" text-anchor="end" font-size="9" font-weight="bold" fill="#c084fc" letter-spacing="1">AI / SAAS</text>
+    <text x="165" y="304" font-size="15" font-weight="bold" fill="#e6edf3">IncomeOS</text>
+    <text x="165" y="325" font-size="11" fill="#9aa4b2">AI financial dashboard to track</text>
+    <text x="165" y="342" font-size="11" fill="#9aa4b2">income &amp; smart earning goals.</text>
+    <line x1="165" y1="370" x2="387" y2="370" stroke="#241740" stroke-width="1"/>
+    <rect x="165" y="370" width="0" height="1.5" rx="0.75" fill="#c084fc">
+      <animate attributeName="width" from="0" to="222" dur="1s" begin="0.80s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
 
   <!-- 6. BulletProof Panel -->
-  <a href="https://bulletproof-panel-production.up.railway.app/" target="_blank" rel="noopener" aria-label="View Project BulletProof Panel">
-    <g class="cell" style="animation-delay:0.70s">
-      <rect x="419" y="244" width="254" height="160" rx="14" fill="#170e28" stroke="#ff7eb6" stroke-opacity=".55" stroke-width="1.3"/>
-      <text x="435" y="278" font-size="18">🛡️</text>
-      <text x="657" y="276" text-anchor="end" font-size="9" font-weight="bold" fill="#ff7eb6" letter-spacing="1">SECURITY MANAGEMENT</text>
-      <text x="435" y="304" font-size="15" font-weight="bold" fill="#e6edf3">BulletProof Panel</text>
-      <text x="435" y="323" font-size="11" fill="#9aa4b2">Security management &amp; server</text>
-      <text x="435" y="338" font-size="11" fill="#9aa4b2">protection control panel.</text>
-      <line x1="435" y1="356" x2="657" y2="356" stroke="#241740" stroke-width="1"/>
-      <rect x="435" y="356" width="0" height="1.5" rx="0.75" fill="#ff7eb6">
-        <animate attributeName="width" from="0" to="222" dur="1s" begin="0.90s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
-      </rect>
-      <rect x="435" y="367" width="222" height="25" rx="6" fill="#ff7eb6" fill-opacity=".12" stroke="#ff7eb6" stroke-opacity=".3" stroke-width="1"/>
-      <text x="546" y="383" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#ff7eb6">VIEW PROJECT ↗</text>
-    </g>
-  </a>
+  <g class="cell" style="animation-delay:0.70s">
+    <rect x="419" y="244" width="254" height="160" rx="14" fill="#170e28" stroke="#ff7eb6" stroke-opacity=".55" stroke-width="1.3"/>
+    <text x="435" y="278" font-size="18">🛡️</text>
+    <text x="657" y="276" text-anchor="end" font-size="9" font-weight="bold" fill="#ff7eb6" letter-spacing="1">SECURITY MANAGEMENT</text>
+    <text x="435" y="304" font-size="15" font-weight="bold" fill="#e6edf3">BulletProof Panel</text>
+    <text x="435" y="325" font-size="11" fill="#9aa4b2">Security management &amp; server</text>
+    <text x="435" y="342" font-size="11" fill="#9aa4b2">protection control panel.</text>
+    <line x1="435" y1="370" x2="657" y2="370" stroke="#241740" stroke-width="1"/>
+    <rect x="435" y="370" width="0" height="1.5" rx="0.75" fill="#ff7eb6">
+      <animate attributeName="width" from="0" to="222" dur="1s" begin="0.90s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+  </g>
 
   <!-- 7. ResumeIQ -->
   <g class="cell" style="animation-delay:0.80s" aria-label="ResumeIQ - Coming Soon">
@@ -140,14 +115,12 @@ a{text-decoration:none}
     <text x="705" y="278" font-size="18">📄</text>
     <text x="927" y="276" text-anchor="end" font-size="9" font-weight="bold" fill="#c084fc" letter-spacing="1">AI / SAAS</text>
     <text x="705" y="304" font-size="15" font-weight="bold" fill="#e6edf3">ResumeIQ</text>
-    <text x="705" y="323" font-size="11" fill="#9aa4b2">AI-powered resume optimizer for</text>
-    <text x="705" y="338" font-size="11" fill="#9aa4b2">building high-impact resumes.</text>
-    <line x1="705" y1="356" x2="927" y2="356" stroke="#241740" stroke-width="1"/>
-    <rect x="705" y="356" width="0" height="1.5" rx="0.75" fill="#c084fc" opacity=".6">
+    <text x="705" y="325" font-size="11" fill="#9aa4b2">AI-powered resume optimizer for</text>
+    <text x="705" y="342" font-size="11" fill="#9aa4b2">building high-impact resumes.</text>
+    <line x1="705" y1="370" x2="927" y2="370" stroke="#241740" stroke-width="1"/>
+    <rect x="705" y="370" width="0" height="1.5" rx="0.75" fill="#c084fc" opacity=".6">
       <animate attributeName="width" from="0" to="222" dur="1s" begin="1.00s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
     </rect>
-    <rect x="705" y="367" width="222" height="25" rx="6" fill="#c084fc" fill-opacity=".08" stroke="#c084fc" stroke-opacity=".2" stroke-width="1" stroke-dasharray="3 3"/>
-    <text x="816" y="383" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#c084fc" opacity=".75">COMING SOON</text>
   </g>
 
   <!-- Sweep Shine -->

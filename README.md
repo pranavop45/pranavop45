@@ -38,10 +38,6 @@ Building real-world products from idea to deployment across web, AI, desktop and
 - Desktop applications
 - Security & management systems
 
-### 🔗 Explore My Work
-
-🌐 **[Portfolio](https://pranavkadam.in)**  
-🐙 **[GitHub](https://github.com/pranavop45)**
 
 ### 🚀 Direct Project Links
 

@@ -24,15 +24,24 @@
 </td>
 <td width="62%" valign="top">
 
-### 🚀 Featured Projects
+### ⚡ Currently Building
 
-- 🌐 **[Portfolio](https://pranavkadam.in)** — Personal portfolio and development work.
-- 🧹 **[CleanMaster Pro](https://cleanmasterpro.in)** — Desktop system optimization tool.
-- 📦 **[CodeVault](https://codevaultofficial.in/)** — Premium source-code marketplace for developers.
-- 🧠 **[DeepScan AI](https://deepscan-ai.vercel.app/)** — AI-powered deepfake and authenticity detection platform.
-- 💰 **[IncomeOS](https://income-os-weld.vercel.app/)** — AI-powered financial planning and income strategy platform.
-- 🛡️ **[BulletProof Panel](https://bulletproof-panel-production.up.railway.app/)** — Security and server management platform.
-- 📄 **ResumeIQ** — AI resume optimization platform. `Coming Soon`
+**AI • SaaS • Full-Stack • Developer Tools**
+
+Building real-world products from idea to deployment across web, AI, desktop and developer platforms.
+
+### 🧠 Focus Areas
+
+- AI-powered applications & automation
+- Full-stack SaaS products
+- Developer tools & platforms
+- Desktop applications
+- Security & management systems
+
+### 🔗 Explore My Work
+
+🌐 **[Portfolio](https://pranavkadam.in)**  
+🐙 **[GitHub](https://github.com/pranavop45)**
 
 </td>
 </tr>
@@ -41,7 +50,7 @@
 <br/>
 
 <p align="center">
-  <img src="./Pranav-projects.svg" alt="Pranav Kadam Featured Projects" width="100%"/>
+  <img src="./Pranav-projects.svg" alt="Pranav Kadam Projects" width="100%"/>
 </p>
 
 <br/>

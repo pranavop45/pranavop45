@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1092 428" width="1092" height="428" role="img" aria-label="Featured Projects">
+<title>Featured Projects — Pranav Kadam</title>
+<defs><style><![CDATA[
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes popCell{0%{opacity:0;transform:translateY(16px) scale(.85)}70%{opacity:1;transform:translateY(-3px) scale(1.03)}100%{opacity:1;transform:translateY(0) scale(1)}}
+@keyframes shineX2{0%{transform:translateX(-200px) skewX(-15deg)}60%,100%{transform:translateX(1172px) skewX(-15deg)}}
+.cell{opacity:0;animation:popCell .55s cubic-bezier(.2,.8,.3,1.2) forwards;transform-box:fill-box;transform-origin:center;transition:transform .25s ease, filter .25s ease}
+.cell:hover{transform:translateY(-3px);filter:brightness(1.12)}
+.sh2{animation:shineX2 5s ease-in-out 2s infinite}
+@keyframes fadeInHdr{0%{opacity:0;transform:translateY(6px)}100%{opacity:1;transform:translateY(0)}}
+.hdr{opacity:0;animation:fadeInHdr .5s ease forwards;animation-delay:0.05s;transform-box:fill-box;transform-origin:left}
+a{text-decoration:none}
+]]></style>
+<linearGradient id="shg2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="50%" stop-color="#fff" stop-opacity=".07"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="hdrGrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#ff7eb6"/><stop offset="60%" stop-color="#c084fc"/><stop offset="100%" stop-color="#e879f9"/></linearGradient>
+<filter id="hdrGlow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="1.2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="tc"><rect x="0" y="0" width="1092" height="428" rx="14"/></clipPath>
+</defs>
+
+  <!-- Section Header -->
+  <g class="hdr">
+    <text x="14" y="27" font-size="21" font-weight="bold" fill="url(#hdrGrad)" filter="url(#hdrGlow)" letter-spacing="0.5"><tspan fill="#ff7eb6" opacity=".9">&gt; </tspan>Featured Projects</text>
+    <text x="36" y="47" font-size="11.5" fill="#c4b5fd" opacity=".85" letter-spacing="0.8">Selected builds, experiments &amp; products I've crafted.</text>
+    <rect x="14" y="54" width="44" height="2" rx="1" fill="url(#hdrGrad)" opacity=".8"/>
+  </g>
+
+  <!-- Row 1: 4 Cards -->
+  <!-- 1. Portfolio -->
+  <a href="https://pranavkadam.in" target="_blank" rel="noopener" aria-label="View Project Portfolio">
+    <g class="cell" style="animation-delay:0.20s">
+      <rect x="14" y="64" width="254" height="160" rx="14" fill="#170e28" stroke="#ff7eb6" stroke-opacity=".55" stroke-width="1.3"/>
+      <text x="30" y="98" font-size="18">🌐</text>
+      <text x="252" y="96" text-anchor="end" font-size="9" font-weight="bold" fill="#ff7eb6" letter-spacing="1">PERSONAL PORTFOLIO</text>
+      <text x="30" y="124" font-size="15" font-weight="bold" fill="#e6edf3">Portfolio</text>
+      <text x="30" y="143" font-size="11" fill="#9aa4b2">Personal portfolio showcasing</text>
+      <text x="30" y="158" font-size="11" fill="#9aa4b2">projects, UI design &amp; dev work.</text>
+      <line x1="30" y1="176" x2="252" y2="176" stroke="#241740" stroke-width="1"/>
+      <rect x="30" y="176" width="0" height="1.5" rx="0.75" fill="#ff7eb6">
+        <animate attributeName="width" from="0" to="222" dur="1s" begin="0.40s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+      </rect>
+      <rect x="30" y="187" width="222" height="25" rx="6" fill="#ff7eb6" fill-opacity=".12" stroke="#ff7eb6" stroke-opacity=".3" stroke-width="1"/>
+      <text x="141" y="203" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#ff7eb6">VIEW PROJECT ↗</text>
+    </g>
+  </a>
+
+  <!-- 2. CleanMaster Pro -->
+  <a href="https://cleanmasterpro.in" target="_blank" rel="noopener" aria-label="View Project CleanMaster Pro">
+    <g class="cell" style="animation-delay:0.30s">
+      <rect x="284" y="64" width="254" height="160" rx="14" fill="#170e28" stroke="#4ade80" stroke-opacity=".55" stroke-width="1.3"/>
+      <text x="300" y="98" font-size="18">⚡</text>
+      <text x="522" y="96" text-anchor="end" font-size="9" font-weight="bold" fill="#4ade80" letter-spacing="1">DESKTOP TOOL</text>
+      <text x="300" y="124" font-size="15" font-weight="bold" fill="#e6edf3">CleanMaster Pro</text>
+      <text x="300" y="143" font-size="11" fill="#9aa4b2">High-performance desktop tool to</text>
+      <text x="300" y="158" font-size="11" fill="#9aa4b2">boost &amp; clean system resources.</text>
+      <line x1="300" y1="176" x2="522" y2="176" stroke="#241740" stroke-width="1"/>
+      <rect x="300" y="176" width="0" height="1.5" rx="0.75" fill="#4ade80">
+        <animate attributeName="width" from="0" to="222" dur="1s" begin="0.50s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+      </rect>
+      <rect x="300" y="187" width="222" height="25" rx="6" fill="#4ade80" fill-opacity=".12" stroke="#4ade80" stroke-opacity=".3" stroke-width="1"/>
+      <text x="411" y="203" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#4ade80">VIEW PROJECT ↗</text>
+    </g>
+  </a>
+
+  <!-- 3. CodeVault -->
+  <a href="https://codevaultofficial.in/" target="_blank" rel="noopener" aria-label="View Project CodeVault">
+    <g class="cell" style="animation-delay:0.40s">
+      <rect x="554" y="64" width="254" height="160" rx="14" fill="#170e28" stroke="#fde047" stroke-opacity=".55" stroke-width="1.3"/>
+      <text x="570" y="98" font-size="18">📦</text>
+      <text x="792" y="96" text-anchor="end" font-size="9" font-weight="bold" fill="#fde047" letter-spacing="1">DEVELOPER MARKETPLACE</text>
+      <text x="570" y="124" font-size="15" font-weight="bold" fill="#e6edf3">CodeVault</text>
+      <text x="570" y="143" font-size="11" fill="#9aa4b2">Monetization platform for code,</text>
+      <text x="570" y="158" font-size="11" fill="#9aa4b2">UI kits &amp; full-stack templates.</text>
+      <line x1="570" y1="176" x2="792" y2="176" stroke="#241740" stroke-width="1"/>
+      <rect x="570" y="176" width="0" height="1.5" rx="0.75" fill="#fde047">
+        <animate attributeName="width" from="0" to="222" dur="1s" begin="0.60s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+      </rect>
+      <rect x="570" y="187" width="222" height="25" rx="6" fill="#fde047" fill-opacity=".12" stroke="#fde047" stroke-opacity=".3" stroke-width="1"/>
+      <text x="681" y="203" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#fde047">VIEW PROJECT ↗</text>
+    </g>
+  </a>
+
+  <!-- 4. DeepScan AI -->
+  <a href="https://deepscan-ai.vercel.app/" target="_blank" rel="noopener" aria-label="View Project DeepScan AI">
+    <g class="cell" style="animation-delay:0.50s">
+      <rect x="824" y="64" width="254" height="160" rx="14" fill="#170e28" stroke="#7dd3fc" stroke-opacity=".55" stroke-width="1.3"/>
+      <text x="840" y="98" font-size="18">🔍</text>
+      <text x="1062" y="96" text-anchor="end" font-size="9" font-weight="bold" fill="#7dd3fc" letter-spacing="1">AI PLATFORM</text>
+      <text x="840" y="124" font-size="15" font-weight="bold" fill="#e6edf3">DeepScan AI</text>
+      <text x="840" y="143" font-size="11" fill="#9aa4b2">AI-powered deepfake detector for</text>
+      <text x="840" y="158" font-size="11" fill="#9aa4b2">images, videos, audio &amp; text.</text>
+      <line x1="840" y1="176" x2="1062" y2="176" stroke="#241740" stroke-width="1"/>
+      <rect x="840" y="176" width="0" height="1.5" rx="0.75" fill="#7dd3fc">
+        <animate attributeName="width" from="0" to="222" dur="1s" begin="0.70s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+      </rect>
+      <rect x="840" y="187" width="222" height="25" rx="6" fill="#7dd3fc" fill-opacity=".12" stroke="#7dd3fc" stroke-opacity=".3" stroke-width="1"/>
+      <text x="951" y="203" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#7dd3fc">VIEW PROJECT ↗</text>
+    </g>
+  </a>
+
+  <!-- Row 2: 3 Centered Cards -->
+  <!-- 5. IncomeOS -->
+  <a href="https://income-os-weld.vercel.app/" target="_blank" rel="noopener" aria-label="View Project IncomeOS">
+    <g class="cell" style="animation-delay:0.60s">
+      <rect x="149" y="244" width="254" height="160" rx="14" fill="#170e28" stroke="#c084fc" stroke-opacity=".55" stroke-width="1.3"/>
+      <text x="165" y="278" font-size="18">💡</text>
+      <text x="387" y="276" text-anchor="end" font-size="9" font-weight="bold" fill="#c084fc" letter-spacing="1">AI / SAAS</text>
+      <text x="165" y="304" font-size="15" font-weight="bold" fill="#e6edf3">IncomeOS</text>
+      <text x="165" y="323" font-size="11" fill="#9aa4b2">AI financial dashboard to track</text>
+      <text x="165" y="338" font-size="11" fill="#9aa4b2">income &amp; smart earning goals.</text>
+      <line x1="165" y1="356" x2="387" y2="356" stroke="#241740" stroke-width="1"/>
+      <rect x="165" y="356" width="0" height="1.5" rx="0.75" fill="#c084fc">
+        <animate attributeName="width" from="0" to="222" dur="1s" begin="0.80s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+      </rect>
+      <rect x="165" y="367" width="222" height="25" rx="6" fill="#c084fc" fill-opacity=".12" stroke="#c084fc" stroke-opacity=".3" stroke-width="1"/>
+      <text x="276" y="383" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#c084fc">VIEW PROJECT ↗</text>
+    </g>
+  </a>
+
+  <!-- 6. BulletProof Panel -->
+  <a href="https://bulletproof-panel-production.up.railway.app/" target="_blank" rel="noopener" aria-label="View Project BulletProof Panel">
+    <g class="cell" style="animation-delay:0.70s">
+      <rect x="419" y="244" width="254" height="160" rx="14" fill="#170e28" stroke="#ff7eb6" stroke-opacity=".55" stroke-width="1.3"/>
+      <text x="435" y="278" font-size="18">🛡️</text>
+      <text x="657" y="276" text-anchor="end" font-size="9" font-weight="bold" fill="#ff7eb6" letter-spacing="1">SECURITY MANAGEMENT</text>
+      <text x="435" y="304" font-size="15" font-weight="bold" fill="#e6edf3">BulletProof Panel</text>
+      <text x="435" y="323" font-size="11" fill="#9aa4b2">Security management &amp; server</text>
+      <text x="435" y="338" font-size="11" fill="#9aa4b2">protection control panel.</text>
+      <line x1="435" y1="356" x2="657" y2="356" stroke="#241740" stroke-width="1"/>
+      <rect x="435" y="356" width="0" height="1.5" rx="0.75" fill="#ff7eb6">
+        <animate attributeName="width" from="0" to="222" dur="1s" begin="0.90s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+      </rect>
+      <rect x="435" y="367" width="222" height="25" rx="6" fill="#ff7eb6" fill-opacity=".12" stroke="#ff7eb6" stroke-opacity=".3" stroke-width="1"/>
+      <text x="546" y="383" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#ff7eb6">VIEW PROJECT ↗</text>
+    </g>
+  </a>
+
+  <!-- 7. ResumeIQ -->
+  <g class="cell" style="animation-delay:0.80s" aria-label="ResumeIQ - Coming Soon">
+    <rect x="689" y="244" width="254" height="160" rx="14" fill="#170e28" stroke="#c084fc" stroke-opacity=".4" stroke-width="1.3"/>
+    <text x="705" y="278" font-size="18">📄</text>
+    <text x="927" y="276" text-anchor="end" font-size="9" font-weight="bold" fill="#c084fc" letter-spacing="1">AI / SAAS</text>
+    <text x="705" y="304" font-size="15" font-weight="bold" fill="#e6edf3">ResumeIQ</text>
+    <text x="705" y="323" font-size="11" fill="#9aa4b2">AI-powered resume optimizer for</text>
+    <text x="705" y="338" font-size="11" fill="#9aa4b2">building high-impact resumes.</text>
+    <line x1="705" y1="356" x2="927" y2="356" stroke="#241740" stroke-width="1"/>
+    <rect x="705" y="356" width="0" height="1.5" rx="0.75" fill="#c084fc" opacity=".6">
+      <animate attributeName="width" from="0" to="222" dur="1s" begin="1.00s" fill="freeze" calcMode="spline" keySplines=".2 .8 .3 1"/>
+    </rect>
+    <rect x="705" y="367" width="222" height="25" rx="6" fill="#c084fc" fill-opacity=".08" stroke="#c084fc" stroke-opacity=".2" stroke-width="1" stroke-dasharray="3 3"/>
+    <text x="816" y="383" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#c084fc" opacity=".75">COMING SOON</text>
+  </g>
+
+  <!-- Sweep Shine -->
+  <g clip-path="url(#tc)"><rect class="sh2" x="0" y="0" width="140" height="428" fill="url(#shg2)"/></g>
+</svg>

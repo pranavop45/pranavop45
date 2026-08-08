@@ -43,6 +43,27 @@ Building real-world products from idea to deployment across web, AI, desktop and
 🌐 **[Portfolio](https://pranavkadam.in)**  
 🐙 **[GitHub](https://github.com/pranavop45)**
 
+### 🚀 Direct Project Links
+
+<table>
+<tr>
+<td>🧹 <a href="https://cleanmasterpro.in">CleanMaster Pro ↗</a></td>
+<td>📦 <a href="https://codevaultofficial.in/">CodeVault ↗</a></td>
+</tr>
+<tr>
+<td>🧠 <a href="https://deepscan-ai.vercel.app/">DeepScan AI ↗</a></td>
+<td>💰 <a href="https://income-os-weld.vercel.app/">IncomeOS ↗</a></td>
+</tr>
+<tr>
+<td>🛡️ <a href="https://bulletproof-panel-production.up.railway.app/">BulletProof Panel ↗</a></td>
+<td>🌐 <a href="https://pranavkadam.in">Portfolio ↗</a></td>
+</tr>
+<tr>
+<td>📄 ResumeIQ</td>
+<td><code>Coming Soon</code></td>
+</tr>
+</table>
+
 </td>
 </tr>
 </table>

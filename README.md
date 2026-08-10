@@ -38,7 +38,6 @@ Building real-world products from idea to deployment across web, AI, desktop and
 - Desktop applications
 - Security & management systems
 
-
 ### 🚀 Direct Project Links
 
 <table>
@@ -78,14 +77,36 @@ Building real-world products from idea to deployment across web, AI, desktop and
 
 <br/>
 
+<!-- ========== 🔥 CONTRIBUTION GRAPH ========== -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavop45&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ff7eb6&area=true&area_color=8b5cf6&hide_border=true&custom_title=⚡%20Contribution%20Graph" width="95%"/>
+</p>
+
+<br/>
+
+<!-- ========== 📊 GITHUB STATS ========== -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavop45&theme=dark&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=ff7eb6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b5cf6&sideLabels=8b5cf6&dates=ffffff" width="48%"/>
+</p>
+
+<br/>
+
 <p align="center">
   <img src="./Pranav-langs.svg" alt="Pranav Kadam Technologies" width="500"/>
 </p>
 
 <br/>
 
+<!-- ========== 🐍 SNAKE EATING CONTRIBUTIONS ========== -->
+<h2 align="center">🐍 Watch the snake eat my contributions</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pranavop45/pranavop45/output/github-snake-pink.svg" alt="Contribution snake" width="100%"/>
+</p>
+
 <br/>
 
+<!-- ========== 💜 LET'S CONNECT ========== -->
 <h2 align="center">💜 Let's Connect</h2>
 
 <p align="center">
@@ -96,15 +117,12 @@ Building real-world products from idea to deployment across web, AI, desktop and
   <a href="mailto:iampranavkadam@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-
   <a href="https://github.com/pranavop45">
     <img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-
   <a href="https://www.instagram.com/mr.pranav_0x?igsh=aG95MHFocTduaG50">
     <img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-
   <a href="https://t.me/OMEGAxOWNER">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
